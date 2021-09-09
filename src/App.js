@@ -75,32 +75,27 @@ function App() {
       <footer>
         <ul class="social-icons">
           <li>
-            <a href="" class="social-icon">
-              {" "}
+            <a href="https://www.facebook.com/cityofto/" class="social-icon">
               <i class="fa fa-facebook"></i>
             </a>
           </li>
           <li>
-            <a href="" class="social-icon">
-              {" "}
+            <a href="https://twitter.com/cityoftoronto" class="social-icon">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
           <li>
-            <a href="" class="social-icon">
-              {" "}
+            <a href="https://www.youtube.com/user/thecityoftoronto" class="social-icon">
               <i class="fa fa-youtube"></i>
             </a>
           </li>
           <li>
-            <a href="" class="social-icon">
-              {" "}
+            <a href="https://www.linkedin.com/company/city-of-toronto/" class="social-icon">
               <i class="fa fa-linkedin"></i>
             </a>
           </li>
           <li>
-            <a href="" class="social-icon">
-              {" "}
+            <a href="https://www.instagram.com/cityofto" class="social-icon">
               <i class="fa fa-instagram"></i>
             </a>
           </li>
